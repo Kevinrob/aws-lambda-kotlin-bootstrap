@@ -1,0 +1,2 @@
+- Build Gradle task `shadowJar` with `gradlew shadowJar`
+- jar in `build/libs/...-all.jar`
